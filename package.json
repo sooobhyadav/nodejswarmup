@@ -1,0 +1,24 @@
+{
+  "name": "nodejswarmup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --env-file=.env server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sooobhyadav/nodejswarmup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sooobhyadav/nodejswarmup/issues"
+  },
+  "homepage": "https://github.com/sooobhyadav/nodejswarmup#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
